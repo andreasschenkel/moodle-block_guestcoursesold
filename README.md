@@ -1,4 +1,4 @@
-# moodle-block_guestcourses
+# moodle-block_guestcourses xxx
 
 # 1. and 2. choice in feedback-generator #
 
